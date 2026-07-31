@@ -65,9 +65,8 @@ Pengembangan aplikasi berbasis frontend + backend terintegrasi dengan pendekatan
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wonderhal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wonderhal&theme=tokyonight" />
-</p>---
+  <img src="https://github-readme-stats.vercel.app/api?username=wonderhal&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 
 ⚡ Motto
 
