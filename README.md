@@ -97,8 +97,6 @@ Pendekatan saya berorientasi pada:
 
 </div>
 
-> Animasi ini otomatis diperbarui setiap hari lewat GitHub Action. Lihat instruksi setup di bawah.
-
 <br/>
 
 ## Hubungi Saya
