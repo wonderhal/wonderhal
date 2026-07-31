@@ -44,19 +44,19 @@ Pendekatan saya berorientasi pada:
 
 **Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,astro,nextjs,tailwind,bootstrap&theme=light" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,astro,react,bootstrap&theme=light" /><br/><br/>
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,postgres,mysql,sqlite,prisma&theme=light" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql&theme=light" /><br/><br/>
 
 **Mobile Development**
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,androidstudio&theme=light" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=light" /><br/><br/>
 
 **Development Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma&theme=light" />
 
 </div>
 
