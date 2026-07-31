@@ -63,11 +63,11 @@ Pendekatan saya berorientasi pada:
 <div align="center">
 
 <a href="https://github.com/wonderhal/perpustakaan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wonderhal&repo=perpustakaan&theme=tokyonight&hide_border=true" />
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=wonderhal&repo=perpustakaan&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=wonderhal&repo=perpustakaan&theme=tokyonight&hide_border=true)" />
 </a>
 
 <a href="https://github.com/wonderhal/portofolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wonderhal&repo=portofolio&theme=tokyonight&hide_border=true" />
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=wonderhal&repo=portofolio&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=wonderhal&repo=portofolio&theme=tokyonight&hide_border=true)" />
 </a>
 
 </div>
@@ -81,11 +81,11 @@ Pendekatan saya berorientasi pada:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wonderhal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wonderhal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wonderhal&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wonderhal&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderhal&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=wonderhal&layout=compact&theme=tokyonight&hide_border=true" width="49%](https://streak-stats.demolab.com?user=wonderhal&theme=tokyonight&hide_border=true)"/>
 
 </div>
 
