@@ -48,7 +48,7 @@ Pendekatan saya berorientasi pada:
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql&theme=light" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql&theme=light" /><br/><br/>
 
 **Mobile Development**
 
