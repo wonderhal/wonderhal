@@ -1,75 +1,133 @@
-👋 Halo, saya Sahal Izdihar Bakhit Fatih
+<div align="center">
 
-🚀 Tentang Saya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=220&section=header&text=Sahal%20Izdihar%20Bakhit%20Fatih&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-Saya adalah siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada pengembangan web modern berbasis performa dan skalabilitas.
+<a href="https://github.com/wonderhal">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=560&lines=Halo%2C+saya+Sahal+%F0%9F%91%8B;Siswa+Rekayasa+Perangkat+Lunak;Fokus+Web+Development+%26+Performa;Let+it+build%2C+let+it+grow+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=wonderhal&label=Profile%20Views&color=4fc3f7&style=flat-square" alt="profile views"/>
+
+</div>
+
+<br/>
+
+## 🚀 Tentang Saya
+
+Saya adalah siswa **Rekayasa Perangkat Lunak (RPL)** dengan fokus pada pengembangan web modern berbasis performa dan skalabilitas.
 
 Pendekatan saya berorientasi pada:
 
-- Efisiensi sistem
-- Struktur kode yang maintainable
-- Optimasi performa aplikasi
+- ⚡ Efisiensi sistem
+- 🧱 Struktur kode yang maintainable
+- 📈 Optimasi performa aplikasi
 
-Saya tidak hanya membangun aplikasi, tetapi juga memastikan setiap solusi memiliki arsitektur yang tepat dan siap dikembangkan lebih lanjut.
+> Saya tidak hanya membangun aplikasi, tetapi juga memastikan setiap solusi memiliki arsitektur yang tepat dan siap dikembangkan lebih lanjut.
 
----
+<br/>
 
-🎓 Pendidikan
+## 🎓 Pendidikan
 
-- 🏫 SMK Mussi
-  Jurusan: Rekayasa Perangkat Lunak (RPL)
+<table>
+  <tr>
+    <td>🏫</td>
+    <td><b>SMK Mussi</b><br/>Jurusan: Rekayasa Perangkat Lunak (RPL)</td>
+  </tr>
+</table>
 
----
+<br/>
 
-🛠️ Skill
+## 🛠️ Tech Stack
 
-💻 Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
+<div align="center">
 
-⚙️ Backend & Database
-- PHP
-- MySQL / MariaDB
-- phpMyAdmin
+**💻 Frontend Development**
 
-🧰 Development Tools
-- Visual Studio Code
-- Git & GitHub
-- Figma (UI/UX Design)Studio Code
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light" /><br/><br/>
 
----
+**⚙️ Backend & Database**
 
-📂 Project
+<img src="https://skillicons.dev/icons?i=php,mysql&theme=light" /><br/><br/>
 
-🌐 Portfolio Website
+**🧰 Development Tools**
 
-Website portofolio dengan desain modern, fokus pada UX, performa, dan animasi interaktif.
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma&theme=light" />
 
-⚡ Web Application Development
+</div>
 
-Pengembangan aplikasi berbasis frontend + backend terintegrasi dengan pendekatan modular.
+<br/>
 
----
+## 📂 Featured Projects
 
-📬 Kontak
+<div align="center">
 
-- 📧 Email: [sahalfatih0@gmail.com](mailto:sahalfatih0@gmail.com)
-- 📱 Instagram: [@wonderhal](https://instagram.com/wonderhal)
-- 💻 GitHub: [github.com/wonderhal](https://github.com/wonderhal)
+<a href="https://github.com/wonderhal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wonderhal&repo=your-portfolio-repo&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF&icon_color=89f7fe" />
+</a>
+<a href="https://github.com/wonderhal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wonderhal&repo=your-webapp-repo&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF&icon_color=89f7fe" />
+</a>
 
----
+</div>
 
-📊 GitHub Stats
+- 🌐 **Portfolio Website** — Website portofolio dengan desain modern, fokus pada UX, performa, dan animasi interaktif.
+- ⚡ **Web Application Development** — Pengembangan aplikasi frontend + backend terintegrasi dengan pendekatan modular.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonderhal&theme=tokyonight" />
-</p>
----
+> 💡 Ganti `your-portfolio-repo` dan `your-webapp-repo` di atas dengan nama repo asli kamu agar kartu proyek tampil otomatis.
 
-⚡ Motto
+<br/>
 
-«"Let it build, let it grow, and make it better."»
+## 📊 GitHub Stats
 
----
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wonderhal&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&icon_color=89f7fe&text_color=EAF6FF&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wonderhal&theme=cobalt&hide_border=true&background=0D1B2A&ring=4FC3F7&fire=66A6FF&currStreakLabel=4FC3F7" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderhal&layout=compact&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF" width="49%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/wonderhal/wonderhal/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+> ⚙️ Animasi ular ini butuh setup **GitHub Action** sekali saja di repo `wonderhal/wonderhal`. Kalau mau, aku bisa bantu buatkan file workflow-nya juga.
+
+<br/>
+
+## 📬 Hubungi Saya
+
+<div align="center">
+
+<a href="mailto:sahalfatih0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-4FC3F7?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/wonderhal">
+  <img src="https://img.shields.io/badge/Instagram-66A6FF?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/wonderhal">
+  <img src="https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=4FC3F7" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Motto
+
+*"Let it build, let it grow, and make it better."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66a6ff,100:89f7fe&height=120&section=footer"/>
+
+</div>
