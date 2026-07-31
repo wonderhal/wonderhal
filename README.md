@@ -38,7 +38,6 @@ Saya tidak hanya membangun aplikasi, tetapi juga memastikan setiap solusi memili
 - Visual Studio Code
 - Git & GitHub
 - Figma (UI/UX Design)Studio Code
-- Git & GitHub
 
 ---
 
