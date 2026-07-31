@@ -63,10 +63,11 @@ Pendekatan saya berorientasi pada:
 <div align="center">
 
 <a href="https://github.com/wonderhal/perpustakaan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wonderhal&repo=perpustakaan&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF&icon_color=89f7fe" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wonderhal&repo=perpustakaan&theme=tokyonight&hide_border=true" />
 </a>
+
 <a href="https://github.com/wonderhal/portofolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wonderhal&repo=portofolio&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF&icon_color=89f7fe" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wonderhal&repo=portofolio&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -80,10 +81,11 @@ Pendekatan saya berorientasi pada:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wonderhal&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&icon_color=89f7fe&text_color=EAF6FF&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wonderhal&theme=cobalt&hide_border=true&background=0D1B2A&ring=4FC3F7&fire=66A6FF&currStreakLabel=4FC3F7" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wonderhal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderhal&layout=compact&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wonderhal&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderhal&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
