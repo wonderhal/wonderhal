@@ -55,9 +55,9 @@ Pengembangan aplikasi berbasis frontend + backend terintegrasi dengan pendekatan
 
 📬 Kontak
 
-- 📧 Email: sahalfatih0@gmail.com
-- 📱 Instagram: @wonderhal
-- 💻 GitHub: https://github.com/wonderhal
+- 📧 Email: [sahalfatih0@gmail.com](mailto:sahalfatih0@gmail.com)
+- 📱 Instagram: [@wonderhal](https://instagram.com/wonderhal)
+- 💻 GitHub: [github.com/wonderhal](https://github.com/wonderhal)
 
 ---
 
