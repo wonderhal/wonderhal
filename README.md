@@ -71,7 +71,7 @@ Pendekatan saya berorientasi pada:
 </a>
 
 <a href="https://github.com/wonderhal/portofolio">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=wonderhal&repo=portofolio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=wonderhal&repo=porto&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
